@@ -1,0 +1,59 @@
+<!DOCTYPE>
+<html>
+<head>
+<link rel="stylesheet" href="mohamed6009.css">
+<title>My Department</title>
+</head>
+<body>
+<div id="imgae">
+<h1> WELCOME TO COMPUTER SCIENCE DEPARTMENT <br> UNIMAK</h1>
+<h4>Sylvanus Koroma Campus Yoni</h4>
+<img src="me.png" width="200px"height="200px" >
+
+<h3>WE OFFER THE FOLLOWING COURSES</h3>
+<table border="1">
+<th>COURSE TITLE</th>
+<th>QUALIFICATION</th>
+<th>COURSE TITLE</th>
+<th>QUALIFICATION</th>
+</div>
+<tr>
+<td>Web programming</td>
+<td>Diploma</td>
+<td>Web programming</td>
+<td>Diploma</td>
+
+</tr>
+<tr>
+<td>Project 1</td>
+<td>Degree</td>
+<td>Web programming</td>
+<td>Diploma</td>
+
+</tr>
+<tr>
+<td>Java Programming</td>
+<td>Web programming</td>
+<td>Diploma</td>
+
+<td>Diploma</td>
+</tr>
+</ol
+<tr>
+<td>computer Ethics</td>
+<td>Degree</td>
+<td>Web programming</td>
+<td>Diploma</td>
+</tr>
+</table>
+</tr><br><br>
+<a href="form.html">form</a>
+
+<marquee>
+<h4>My Computer Science My Responsibility</h4>
+<h4>welcome to the world of learning.Computer science we are the best in the world</h4>
+</marquee>
+
+</div>
+</body>
+</html>
